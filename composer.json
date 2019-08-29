@@ -1,0 +1,14 @@
+{
+    "name": "xuncai/demo",
+    "description": "test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "xuncai",
+            "email": "1446653806@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
